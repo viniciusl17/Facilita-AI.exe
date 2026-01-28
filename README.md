@@ -2,6 +2,9 @@
 
 > **Toolkit de Suporte Técnico & Automação**
 
+> **Link aqui:**  https://raw.githubusercontent.com/viniciusl17/Facilita-AI.exe/master/Facilita%20AI%20v1.0.exe
+
+
 O **Facilita AI** é uma aplicação desktop desenvolvida para agilizar a rotina de analistas de suporte. Ele centraliza ferramentas de manutenção do Windows, diagnósticos de sistema, downloads essenciais e registro de atendimentos integrado ao Google Sheets.
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
