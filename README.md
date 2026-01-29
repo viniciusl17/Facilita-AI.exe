@@ -1,6 +1,6 @@
 # 🚀 Facilita AI v1.0
 
-> **Toolkit de Suporte Técnico & Automação**
+> **Uma Ferramenta para Suporte Técnico & Automação**
 
 > **Link aqui:**  https://raw.githubusercontent.com/viniciusl17/Facilita-AI.exe/master/Facilita%20AI%20v1.0.exe
 
