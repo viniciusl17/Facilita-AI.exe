@@ -2,8 +2,13 @@
 
 > **Uma Ferramenta para Suporte Técnico & Automação**
 
-> **Link aqui:**  https://raw.githubusercontent.com/viniciusl17/Facilita-AI.exe/master/Facilita%20AI%20v1.0.exe
+> 📥 **Download direto:**  
+> [`Facilita AI v1.0.exe ↗`](https://raw.githubusercontent.com/viniciusl17/Facilita-AI.exe/master/Facilita%20AI%20v1.0.exe)  
+>  
+> 📋 **Copie o link:**  
+> `https://raw.githubusercontent.com/viniciusl17/Facilita-AI.exe/master/Facilita%20AI%20v1.0.exe`
 
+---
 
 O **Facilita AI** é uma aplicação desktop desenvolvida para agilizar a rotina de analistas de suporte. Ele centraliza ferramentas de manutenção do Windows, diagnósticos de sistema, downloads essenciais e registro de atendimentos integrado ao Google Sheets.
 
@@ -48,7 +53,3 @@ O **Facilita AI** é uma aplicação desktop desenvolvida para agilizar a rotina
 <img width="1267" height="799" alt="login" src="https://github.com/user-attachments/assets/1d4d34c6-1b91-4020-a5ce-23539711bae6" />
 
 <img width="1271" height="798" alt="tela principal" src="https://github.com/user-attachments/assets/5d87959f-77c3-49b0-9fa5-2cfdaa8606dc" />
-
-
-
-
