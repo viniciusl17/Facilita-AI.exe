@@ -3,7 +3,7 @@
 > **Uma Ferramenta para Suporte Técnico & Automação**
 
 > 📥 **Download direto:**  
-> [`Facilita AI v1.0.exe ↗`](https://raw.githubusercontent.com/viniciusl17/Facilita-AI.exe/master/Facilita%20AI%20v1.0.exe)  
+> [`Facilita AI v1.0.exe ↗`](https://github.com/viniciusl17/Facilita-AI/raw/refs/heads/master/Facilita%20AI%20v1.0.exe)  
 >  
 > 📋 **Copie o link:**  
 > `https://raw.githubusercontent.com/viniciusl17/Facilita-AI.exe/master/Facilita%20AI%20v1.0.exe`
